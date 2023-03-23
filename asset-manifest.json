@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pagopa-mock-config-fe/static/css/main.ca4b52ea.css",
-    "main.js": "/pagopa-mock-config-fe/static/js/main.a694cf8e.js",
+    "main.js": "/pagopa-mock-config-fe/static/js/main.9ae8e4dc.js",
     "index.html": "/pagopa-mock-config-fe/index.html",
     "main.ca4b52ea.css.map": "/pagopa-mock-config-fe/static/css/main.ca4b52ea.css.map",
-    "main.a694cf8e.js.map": "/pagopa-mock-config-fe/static/js/main.a694cf8e.js.map"
+    "main.9ae8e4dc.js.map": "/pagopa-mock-config-fe/static/js/main.9ae8e4dc.js.map"
   },
   "entrypoints": [
     "static/css/main.ca4b52ea.css",
-    "static/js/main.a694cf8e.js"
+    "static/js/main.9ae8e4dc.js"
   ]
 }
